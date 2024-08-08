@@ -1,0 +1,17 @@
+{
+    "ID": "D73A7EF0633F4C82A14454FFD848F447",
+    "Name": "Edge Favourite",
+    "Description": "Simple plugin to search Microsoft Edge favorites",
+    "Author": "davidegiacometti",
+    "SourceUrl": "https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite/blob/main/LICENSE"
+    },
+    "Versions": {
+        "0.2.0": {
+            "x64": "https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite/releases/download/0.6.0/EdgeFavorite-0.6.0-x64.zip",
+            "arm64": "https://github.com/davidegiacometti/PowerToys-Run-EdgeFavorite/releases/download/0.6.0/EdgeFavorite-0.6.0-ARM64.zip"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ID": "be0142a36ee54bd6ab789086d5828b4b",
+    "Name": "Scoop",
+    "Description": "Allows you to search and install packages from the Scoop package manager",
+    "Author": "Quriz",
+    "SourceUrl": "https://github.com/Quriz/PowerToysRunScoop",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/Quriz/PowerToysRunScoop/blob/main/LICENSE"
+    },
+    "Versions": {
+        "1.3.3": {
+            "x64": "https://github.com/Quriz/PowerToysRunScoop/releases/download/v1.3.3/Scoop-v1.3.3-x64.zip",
+            "arm64": "https://github.com/Quriz/PowerToysRunScoop/releases/download/v1.3.3/Scoop-v1.3.3-arm64.zip"
+        }
+    }
+}

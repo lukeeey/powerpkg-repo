@@ -1,0 +1,13 @@
+{
+    "ID": "EF1F634F20484459A3679B4DE7B07999",
+    "Name": "Currency Converter",
+    "Description": "A plugin which will convert real and crypto currencies",
+    "Author": "advaith3600",
+    "SourceUrl": "https://github.com/Advaith3600/PowerToys-Run-Currency-Converter",
+    "Versions": {
+        "1.1.5": {
+            "x64": "https://github.com/Advaith3600/PowerToys-Run-Currency-Converter/releases/download/v1.1.5/CurrencyConverter-1.1.5-x64.zip",
+            "arm64": "https://github.com/Advaith3600/PowerToys-Run-Currency-Converter/releases/download/v1.1.5/CurrencyConverter-1.1.5-ARM64.zip"
+        }
+    }
+}

@@ -1,0 +1,227 @@
+{
+    "format": 1,
+    "packages": [
+        {
+            "ID": "BX1Z634F30489859A3671B4FQ7Y07193",
+            "PackageID": "Spotify",
+            "Name": "Spotify",
+            "Description": "Allows you to search Spotify and control its player",
+            "Author": "waaverecords",
+            "LatestVersion": "0.82.0",
+            "Supports": [
+                "x64"
+            ]
+        },
+        {
+            "ID": "78844AE082E24C0C8AC9DB222FF67317",
+            "PackageID": "ProcessKiller",
+            "Name": "Process Killer",
+            "Description": "Allows you to kill processes with a simple command",
+            "Author": "8LWXpg",
+            "LatestVersion": "1.4.2",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "EF2F634F20484459A365944EE7B07121",
+            "PackageID": "Lorem",
+            "Name": "Lorem",
+            "Description": "Lorem Ipsum Generator",
+            "Author": "dandn",
+            "LatestVersion": "1.0.0",
+            "Supports": [
+                "x64"
+            ]
+        },
+        {
+            "ID": "46778CB7A2FD4949A845B19EF1A6364B",
+            "PackageID": "Winget",
+            "Name": "Winget",
+            "Description": "Allows you to search and install packages from the Winget package manager",
+            "Author": "bostrot",
+            "LatestVersion": "1.3.0",
+            "Supports": [
+                "x64"
+            ]
+        },
+        {
+            "ID": "be0142a36ee54bd6ab789086d5828b4b",
+            "PackageID": "Scoop",
+            "Name": "Scoop",
+            "Description": "Allows you to search and install packages from the Scoop package manager",
+            "Author": "Quriz",
+            "LatestVersion": "1.3.3",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "10733f2de88e4348aa7a340d25ebcca2",
+            "PackageID": "InputTyper",
+            "Name": "Input Typer",
+            "Description": "Simple plugin for easily typing input as if from a keyboard",
+            "Author": "Corey Hayward",
+            "LatestVersion": "0.2.0",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "2d9351ea495848d98f4771c27ac211e4",
+            "PackageID": "ClipboardManager",
+            "Name": "Clipboard Manager",
+            "Description": "Simple plugin for easily searching and pasting the clipboard history",
+            "Author": "Corey Hayward",
+            "LatestVersion": "0.3.0",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "D73A7EF0633F4C82A14454FFD848F447",
+            "PackageID": "EdgeFavourite",
+            "Name": "Edge Favourite",
+            "Description": "Simple plugin to search Microsoft Edge favorites",
+            "Author": "davidegiacometti",
+            "LatestVersion": "0.6.0",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "2FC51DBA9F0F42108E26602486C186C1",
+            "PackageID": "TOTP",
+            "Name": "TOTP",
+            "Description": "A plugin helps you to copy your two-factor verification code",
+            "Author": "Zapic",
+            "LatestVersion": "1.2.4",
+            "Supports": [
+                "x64"
+            ]
+        },
+        {
+            "ID": "47B63DBFBDEE4F9C85EBA5F6CD69E243",
+            "PackageID": "GitHubRepo",
+            "Name": "GitHub Repository",
+            "Description": "Allows searching GitHub repositories then open in your default browser",
+            "Author": "8LWXpg",
+            "LatestVersion": "1.7.0",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "B5E595872B8068104D5AD6BBE39A6664",
+            "PackageID": "WebSearchShortcut",
+            "Name": "Web Search Shortcut",
+            "Description": "A plugin for quickly selecting a specific search engine to perform searches via keyword prefixes",
+            "Author": "Daydreamer-riri",
+            "LatestVersion": "0.6.2",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "778f24fc48714097b30303f83d5bed6a",
+            "PackageID": "UnicodeInput",
+            "Name": "Unicode Input",
+            "Description": "Unicode character search",
+            "Author": "nathancartlidge",
+            "LatestVersion": "0.6.1",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "D0998A1863424336A86A2B6E936C0E8E",
+            "PackageID": "VisualStudio",
+            "Name": "Visual Studio",
+            "Description": "Simple plugin for search Visual Studio recents",
+            "Author": "davidegiacometti",
+            "LatestVersion": "0.3.1",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "0cd68088246649a38205c7641df39db0",
+            "PackageID": "Timer",
+            "Name": "Timer",
+            "Description": "Simple plugin for quickly setting timers",
+            "Author": "Corey Hayward",
+            "LatestVersion": "0.3.0",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "62414FAD40D349CB9FB69181C3118B6A",
+            "PackageID": "AltVNatives",
+            "Name": "alt:V Natives",
+            "Description": "Searches alt:V native DB reference in PowerToys Run",
+            "Author": "zziger",
+            "LatestVersion": "1.2.0",
+            "Supports": [
+                "x64"
+            ]
+        },
+        {
+            "ID": "DF7413853DC54C2287390EE0E0C5BF42",
+            "PackageID": "RDP",
+            "Name": "RDP",
+            "Description": "A plugin to launch RDP connections",
+            "Author": "anthony81799",
+            "LatestVersion": "1.0.5",
+            "Supports": [
+                "x64"
+            ]
+        },
+        {
+            "ID": "582B10E1E9144702B5E18C3EDC3FF466",
+            "PackageID": "GitKraken",
+            "Name": "GitKraken",
+            "Description": "Simple plugin to quickly open GitKraken repositories",
+            "Author": "davidegiacometti",
+            "LatestVersion": "0.2.2",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "EF1F634F20484459A3679B4DE7B07999",
+            "PackageID": "CurrencyConverter",
+            "Name": "Currency Converter",
+            "Description": "A plugin which will convert real and crypto currencies",
+            "Author": "advaith3600",
+            "LatestVersion": "1.1.5",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        },
+        {
+            "ID": "E5A9FC7A3F7F4320BE612DA95C57C32D",
+            "PackageID": "BrowserSearch",
+            "Name": "Browser Search",
+            "Description": "Reads your default browser's history, allowing you to search its entries and open their URL",
+            "Author": "TBM13",
+            "LatestVersion": "1.7.0",
+            "Supports": [
+                "x64",
+                "arm64"
+            ]
+        }
+    ]
+}

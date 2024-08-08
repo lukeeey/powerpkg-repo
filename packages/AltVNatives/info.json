@@ -1,0 +1,12 @@
+{
+    "ID": "62414FAD40D349CB9FB69181C3118B6A",
+    "Name": "alt:V Natives",
+    "Description": "Searches alt:V native DB reference in PowerToys Run",
+    "Author": "zziger",
+    "SourceUrl": "https://github.com/zziger/altv-powertoys-run-natives",
+    "Versions": {
+        "1.2.0": {
+            "x64": "https://github.com/zziger/altv-powertoys-run-natives/releases/download/v1.2.0/AltVNatives.zip"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ID": "778f24fc48714097b30303f83d5bed6a",
+    "Name": "Unicode Input",
+    "Description": "Unicode character search",
+    "Author": "nathancartlidge",
+    "SourceUrl": "https://github.com/nathancartlidge/powertoys-run-unicode",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/nathancartlidge/powertoys-run-unicode/blob/main/LICENSE"
+    },
+    "Versions": {
+        "0.6.1": {
+            "x64": "https://github.com/nathancartlidge/powertoys-run-unicode/releases/download/v0.6.1/UnicodeInput-v0.6.1-x64.zip",
+            "arm64": "https://github.com/nathancartlidge/powertoys-run-unicode/releases/download/v0.6.1/UnicodeInput-v0.6.1-ARM64.zip"
+        }
+    }
+}

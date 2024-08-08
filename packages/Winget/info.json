@@ -1,0 +1,16 @@
+{
+    "ID": "46778CB7A2FD4949A845B19EF1A6364B",
+    "Name": "Winget",
+    "Description": "Allows you to search and install packages from the Winget package manager",
+    "Author": "bostrot",
+    "SourceUrl": "https://github.com/bostrot/PowerToysRunPluginWinget",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/bostrot/PowerToysRunPluginWinget/blob/main/LICENSE"
+    },
+    "Versions": {
+        "1.3.0": {
+            "x64": "https://github.com/bostrot/PowerToysRunPluginWinget/releases/download/v1.3.0/winget-powertoys-1.3.0.zip"
+        }
+    }
+}

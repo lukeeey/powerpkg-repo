@@ -1,0 +1,17 @@
+{
+    "ID": "0cd68088246649a38205c7641df39db0",
+    "Name": "Timer",
+    "Description": "Simple plugin for quickly setting timers",
+    "Author": "Corey Hayward",
+    "SourceUrl": "https://github.com/CoreyHayward/PowerToys-Run-Timer",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/CoreyHayward/PowerToys-Run-Timer/blob/main/LICENSE.txt"
+    },
+    "Versions": {
+        "0.3.0": {
+            "x64": "https://github.com/CoreyHayward/PowerToys-Run-Timer/releases/download/v0.3.0/Timer-0.3.0-x64.zip",
+            "arm64": "https://github.com/CoreyHayward/PowerToys-Run-Timer/releases/download/v0.3.0/Timer-0.3.0-ARM64.zip"
+        }
+    }
+}

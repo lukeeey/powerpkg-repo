@@ -1,0 +1,16 @@
+{
+    "ID": "BX1Z634F30489859A3671B4FQ7Y07193",
+    "Name": "Spotify",
+    "Description": "Allows you to search Spotify and control its player.",
+    "Author": "waaverecords",
+    "SourceUrl": "https://github.com/waaverecords/PowerToys-Run-Spotify",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/waaverecords/PowerToys-Run-Spotify/blob/main/LICENSE"
+    },
+    "Versions": {
+        "0.82.0": {
+            "x64": "https://github.com/waaverecords/PowerToys-Run-Spotify/releases/download/v0.83.0/PowerToys-Run-Spotify.zip"
+        }
+    }
+}

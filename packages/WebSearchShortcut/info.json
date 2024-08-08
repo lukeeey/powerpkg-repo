@@ -1,0 +1,17 @@
+{
+    "ID": "B5E595872B8068104D5AD6BBE39A6664",
+    "Name": "Web Search Shortcut",
+    "Description": "A plugin for quickly selecting a specific search engine to perform searches via keyword prefixes",
+    "Author": "Daydreamer-riri",
+    "SourceUrl": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut/blob/main/LICENSE"
+    },
+    "Versions": {
+        "0.2.0": {
+            "x64": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut/releases/download/0.6.2/WebSearchShortcut-0.6.2-x64.zip",
+            "arm64": "https://github.com/Daydreamer-riri/PowerToys-Run-WebSearchShortcut/releases/download/0.6.2/WebSearchShortcut-0.6.2-ARM64.zip"
+        }
+    }
+}

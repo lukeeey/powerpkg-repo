@@ -1,0 +1,12 @@
+{
+    "ID": "2FC51DBA9F0F42108E26602486C186C1",
+    "Name": "TOTP",
+    "Description": "A plugin helps you to copy your two-factor verification code",
+    "Author": "Zapic",
+    "SourceUrl": "https://github.com/KawaiiZapic/PowertoysRunTOTP",
+    "Versions": {
+        "1.2.4": {
+            "x64": "https://github.com/KawaiiZapic/PowertoysRunTOTP/releases/download/1.2.4/TOTP-1.2.4-x64.zip"
+        }
+    }
+}

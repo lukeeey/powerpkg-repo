@@ -1,0 +1,17 @@
+{
+    "ID": "582B10E1E9144702B5E18C3EDC3FF466",
+    "Name": "GitKraken",
+    "Description": "Simple plugin to quickly open GitKraken repositories",
+    "Author": "davidegiacometti",
+    "SourceUrl": "https://github.com/davidegiacometti/PowerToys-Run-GitKraken",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/davidegiacometti/PowerToys-Run-GitKraken/blob/main/LICENSE"
+    },
+    "Versions": {
+        "0.2.2": {
+            "x64": "https://github.com/davidegiacometti/PowerToys-Run-GitKraken/releases/download/0.2.2/GitKraken-0.2.2-x64.zip",
+            "arm64": "https://github.com/davidegiacometti/PowerToys-Run-GitKraken/releases/download/0.2.2/GitKraken-0.2.2-ARM64.zip"
+        }
+    }
+}

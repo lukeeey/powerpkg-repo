@@ -1,0 +1,17 @@
+{
+    "ID": "2d9351ea495848d98f4771c27ac211e4",
+    "Name": "Clipboard Manager",
+    "Description": "Simple plugin for easily searching and pasting the clipboard history",
+    "Author": "Corey Hayward",
+    "SourceUrl": "https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager/blob/master/LICENSE.txt"
+    },
+    "Versions": {
+        "0.3.0": {
+            "x64": "https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager/releases/download/v0.3.0/ClipboardManager-0.3.0-x64.zip",
+            "arm64": "https://github.com/CoreyHayward/PowerToys-Run-ClipboardManager/releases/download/v0.3.0/ClipboardManager-0.3.0-ARM64.zip"
+        }
+    }
+}

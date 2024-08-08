@@ -1,0 +1,17 @@
+{
+    "ID": "DF7413853DC54C2287390EE0E0C5BF42",
+    "PackageID": "RDP",
+    "Name": "RDP",
+    "Description": "A plugin to launch RDP connections",
+    "Author": "anthony81799",
+    "SourceUrl": "https://github.com/anthony81799/PowerToysRun-RDP",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/anthony81799/PowerToysRun-RDP/blob/master/LICENSE"
+    },
+    "Versions": {
+        "1.0.5": {
+            "x64": "https://github.com/anthony81799/PowerToysRun-RDP/releases/download/1.0.5/RDP-1.0.5.x64.zip"
+        }
+    }
+}

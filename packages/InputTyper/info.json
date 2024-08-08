@@ -1,0 +1,17 @@
+{
+    "ID": "10733f2de88e4348aa7a340d25ebcca2",
+    "Name": "Input Typer",
+    "Description": "Simple plugin for easily typing input as if from a keyboard",
+    "Author": "Corey Hayward",
+    "SourceUrl": "https://github.com/CoreyHayward/PowerToys-Run-InputTyper",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/CoreyHayward/PowerToys-Run-InputTyper/blob/main/LICENSE.txt"
+    },
+    "Versions": {
+        "0.2.0": {
+            "x64": "https://github.com/CoreyHayward/PowerToys-Run-InputTyper/releases/download/v0.2.0/InputTyper-0.2.0-x64.zip",
+            "arm64": "https://github.com/CoreyHayward/PowerToys-Run-InputTyper/releases/download/v0.2.0/InputTyper-0.2.0-ARM64.zip"
+        }
+    }
+}

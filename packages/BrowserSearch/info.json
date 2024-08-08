@@ -1,0 +1,13 @@
+{
+    "ID": "E5A9FC7A3F7F4320BE612DA95C57C32D",
+    "Name": "Browser Search",
+    "Description": "Reads your default browser's history, allowing you to search its entries and open their URL",
+    "Author": "TBM13",
+    "SourceUrl": "https://github.com/TBM13/BrowserSearch",
+    "Versions": {
+        "1.7.0": {
+            "x64": "https://github.com/TBM13/BrowserSearch/releases/download/v1.7.0/BrowserSearch-x64.zip",
+            "arm64": "https://github.com/TBM13/BrowserSearch/releases/download/v1.7.0/BrowserSearch-arm64.zip"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "ID": "D0998A1863424336A86A2B6E936C0E8E",
+    "Name": "Visual Studio",
+    "Description": "Simple plugin for search Visual Studio recents",
+    "Author": "davidegiacometti",
+    "SourceUrl": "https://github.com/davidegiacometti/PowerToys-Run-VisualStudio",
+    "License": {
+        "Type": "MIT",
+        "Url": "https://github.com/davidegiacometti/PowerToys-Run-VisualStudio/blob/main/LICENSE"
+    },
+    "Versions": {
+        "0.3.1": {
+            "x64": "https://github.com/davidegiacometti/PowerToys-Run-VisualStudio/releases/download/0.3.1/VisualStudio-0.3.1-x64.zip",
+            "arm64": "https://github.com/davidegiacometti/PowerToys-Run-VisualStudio/releases/download/0.3.1/VisualStudio-0.3.1-ARM64.zip"
+        }
+    }
+}
